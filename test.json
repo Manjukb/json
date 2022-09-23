@@ -1,0 +1,19 @@
+[
+  { "name": "文科", "month": "Jan.", "value": 70, "type": "语文" },
+  { "name": "理科", "month": "Jan.", "value": 67, "type": "数学" },
+  { "name": "文科", "month": "Jan.", "value": 90.5, "type": "英语" },
+  { "name": "文科", "month": "Jan.", "value": 62.4, "type": "美术" },
+  { "name": "理科", "month": "Jan.", "value": 72.4, "type": "线性代数" },
+
+  { "name": "文科", "month": "Feb.", "value": 82.5, "type": "语文" },
+  { "name": "理科", "month": "Feb.", "value": 65.5, "type": "数学" },
+  { "name": "文科", "month": "Feb.", "value": 79, "type": "英语" },
+  { "name": "文科", "month": "Feb.", "value": 81.5, "type": "美术" },
+  { "name": "理科", "month": "Feb.", "value": 82.4, "type": "线性代数" },
+
+  { "name": "文科", "month": "Mar.", "value": 77.5, "type": "英语" },
+  { "name": "理科", "month": "Mar.", "value": 65.5, "type": "数学" },
+  { "name": "文科", "month": "Mar.", "value": 72, "type": "语文" },
+  { "name": "文科", "month": "Mar.", "value": 85.4, "type": "美术" },
+  { "name": "理科", "month": "Mar.", "value": 82.5, "type": "线性代数" }
+]
