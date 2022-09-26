@@ -3,32 +3,32 @@
   {
     "year": "MyTestTeant",
     "value": 3,
-    "type": "Lon"
+    "type": "Lon1"
   },
   {
     "year": "MyTestTean2",
     "value": 4,
-    "type": "Lon"
+    "type": "Lon3"
   },
   {
     "year": "MyTestTeant3",
     "value": 3.5,
-    "type": "Lon"
+    "type": "Lon3"
   },
   {
-    "year": "MyTestTeant4",
+    "year": "MyTestTeant5",
     "value": 5,
-    "type": "Lon"
+    "type": "Lon5"
   },
   {
     "year": "MyTestTean5",
     "value": 4.9,
-    "type": "Lon"
+    "type": "Lon5"
   },
   {
-    "year": "MyTestTeant6",
+    "year": "MyTestTeant5",
     "value": 6,
-    "type": "Lon"
+    "type": "Lon5"
   },
   {
     "year": "MyTestTean7",
