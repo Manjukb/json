@@ -3,36 +3,36 @@
   {
     "year": "MyTestTeant",
     "value": 3,
-    "type": "Lon1"
+    "type": "dimension1"
   },
   {
     "year": "MyTestTean2",
     "value": 4,
-    "type": "Lon3"
+    "type": "dimension1"
   },
   {
     "year": "MyTestTeant3",
     "value": 3.5,
-    "type": "Lon3"
+    "type": "dimension2"
   },
   {
     "year": "MyTestTeant5",
     "value": 5,
-    "type": "Lon6"
+    "type": "dimensio3"
   },
   {
     "year": "MyTestTean5",
     "value": 4.9,
-    "type": "Lon5"
+    "type": "dimensio6"
   },
   {
     "year": "MyTestTeant5",
     "value": 6,
-    "type": "Lon5"
+    "type": "dimensio6"
   },
   {
     "year": "MyTestTean7",
     "value": 7,
-    "type": "Lon"
+    "type": "dimension"
   }
 ]
